@@ -54,28 +54,28 @@ body {
 }
 
 .imagenFondoNosotros {
-  background-image: url(../img/Nosotros.jpg);
+  background-image: url(../img/nosotros.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .imagenFondoEntrenamientos {
-  background-image: url(../img/Entrenamientos.jpg);
+  background-image: url(../img/jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .imagenFondoTienda {
-  background-image: url(../img/Tienda.jpg);
+  background-image: url(../img/jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .imagenFondoContacto {
-  background-image: url(../img/Contacto.webp);
+  background-image: url(../img/webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
