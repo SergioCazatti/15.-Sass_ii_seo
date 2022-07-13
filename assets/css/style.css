@@ -48,7 +48,7 @@ body {
 }
 
 .imagenFondoInicio {
-  background-image: url(../img/Inicio.jpg);
+  background-image: url(../img/inicio.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
