@@ -61,21 +61,21 @@ body {
 }
 
 .imagenFondoEntrenamientos {
-  background-image: url(../img/jpg);
+  background-image: url(../img/entrenamientos.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .imagenFondoTienda {
-  background-image: url(../img/jpg);
+  background-image: url(../img/tienda.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
 .imagenFondoContacto {
-  background-image: url(../img/webp);
+  background-image: url(../img/contacto.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

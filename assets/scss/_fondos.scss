@@ -1,7 +1,7 @@
-@each $imagen, $ext in $fondos{
+@each $imagen, $nombre in $fondos{
     .imagenFondo#{$imagen}{
         // background-image: url(../img/#{$imagen}.#{$ext});
-        background-image: url(../img/#{$ext});        
+        background-image: url(../img/#{$nombre});
         background-repeat: no-repeat;
         background-size: cover;
         @if $imagen != $fondoPrincipal {
