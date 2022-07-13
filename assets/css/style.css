@@ -53,12 +53,6 @@ body {
   background-size: cover;
 }
 
-.imagenFondoInicio {
-  background-image: url(../img/Inicio.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 .imagenFondoNosotros {
   background-image: url(../img/Nosotros.jpg);
   background-repeat: no-repeat;
