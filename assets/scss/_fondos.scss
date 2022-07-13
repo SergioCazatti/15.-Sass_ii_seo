@@ -1,3 +1,9 @@
+.imagenFondoInicio {
+    background-image: url(../img/Inicio.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
 @each $imagen, $ext in $fondos{
     .imagenFondo#{$imagen}{
         background-image: url(../img/#{$imagen}.#{$ext});
