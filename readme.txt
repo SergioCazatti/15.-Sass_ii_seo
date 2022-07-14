@@ -9,6 +9,5 @@ Se modificaron las etiquetas de botones para la utilización de:
 - @extend
 - @mixin
 
-
-
+Par SEO, se agregaron keyword, description, además se modificaron h1, h2, h3, titulos.
 
